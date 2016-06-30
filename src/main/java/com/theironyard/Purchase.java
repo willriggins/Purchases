@@ -28,7 +28,6 @@ public class Purchase {
     Customer customer;
 
     public Purchase() {
-
     }
 
     public Purchase(String date, String creditCard, int cvv, String category, Customer customer) {
